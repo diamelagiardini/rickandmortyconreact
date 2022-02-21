@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  width: 300px;
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+  font-size:20px;
+  display: flex;
+  align-items: center;
+} 
+
+.navegacion {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: grey;
+  height: 150px;
+}
+
+.busqueda {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
